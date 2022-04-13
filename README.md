@@ -1,4 +1,4 @@
-# Artificial Minds US Accidents Severity Prediction	
+# US Accidents Severity Prediction	
 
 ## Dataset - https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
