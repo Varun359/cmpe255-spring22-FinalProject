@@ -7,8 +7,9 @@ Road accidents can be caused by a variety of meteorological and topographical fa
 
 ### Tools / Technologies:
 Programming language: Python
-Data science Libraries: NumPy, SciPy, Pandas, Scikit-Learn, NLTK and
-Scrapy
+
+Libraries used: NumPy, SciPy, Pandas, Scikit-Learn.
+
 Tools: Jupyter Notebook, Google Colab 
 
 ### Preprocessing 
