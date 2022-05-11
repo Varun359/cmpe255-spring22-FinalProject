@@ -1,5 +1,12 @@
 # US Accidents Severity Prediction	
 
+
+### Team Members :
+### Varun Reddy Yedulla
+### Butul parveen
+### Varun Teja Maguluri
+### Varun Raj Badri
+
 ## Dataset - https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ### Introduction:
