@@ -56,17 +56,15 @@ The dataset includes 47 columns with severity as the output variable. This inclu
 
 ### Model Outputs:
 
-## Logistic Regression:
+## Results of Logistic Regression
 
-Results of Logistic Regression
+### Accuracy    :  0.8946384706560979
 
-Accuracy    :  0.8946384706560979
+### Recall      :  0.8946384706560979
 
-Recall      :  0.8946384706560979
+### Precision   :  0.8539889299254698
 
-Precision   :  0.8539889299254698
-
-Confusion Matrix   : 
+### Confusion Matrix   : 
 
 [[   325   6071      0      3]
 
@@ -77,17 +75,16 @@ Confusion Matrix   :
  [    39  25701   1006   1207]]
  
  
-## Decision Tree:
 
-Results of Decision Tree
+## Results of Decision Tree
 
-Accuracy    :  0.9040967150673749
+### Accuracy    :  0.9040967150673749
 
-Recall      :  0.9040967150673749
+### Recall      :  0.9040967150673749
 
-Precision   :  0.9061424711701926
+### Precision   :  0.9061424711701926
 
-Confusion Matrix   : 
+### Confusion Matrix   : 
 
 [[  4309   1440    484    166]
 
@@ -98,17 +95,15 @@ Confusion Matrix   :
  [   170  11576   3328  12879]]
 
 
-## Neural Network
+## Results of Neural Network
 
-Results of Neural Network
+### Accuracy    :  0.9203564613514746
 
-Accuracy    :  0.9203564613514746
+### Recall      :  0.9203564613514746
 
-Recall      :  0.9203564613514746
+### Precision   :  0.9060166938882748
 
-Precision   :  0.9060166938882748
-
-Confusion Matrix   : 
+### Confusion Matrix   : 
 
 [[  3384   2676    281     58]
 
@@ -119,17 +114,15 @@ Confusion Matrix   :
  [   219  17026   1662   9046]]
  
  
-## Random Forest 
+## Results of Random Forest
 
-Results of Random Forest
+### Accuracy    :  0.9039777339672967
 
-Accuracy    :  0.9039777339672967
+### Recall      :  0.9039777339672967
 
-Recall      :  0.9039777339672967
+### Precision   :  0.901722354710279
 
-Precision   :  0.901722354710279
-
-Confusion Matrix   : 
+### Confusion Matrix   : 
 
 [[  5275   1066     57      1]
 
@@ -138,5 +131,10 @@ Confusion Matrix   :
  [   524  24230   9111     40]
  
  [   142  13008  12801   2002]]
+
+
+### API CALL
+
+![Screenshot (411)](https://user-images.githubusercontent.com/55958864/167752993-5d4e1439-9936-4e39-a7ba-ed57bf7158a5.png)
 
 
