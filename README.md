@@ -139,5 +139,5 @@ The dataset includes 47 columns with severity as the output variable. This inclu
 ![Screenshot (411)](https://user-images.githubusercontent.com/55958864/167752993-5d4e1439-9936-4e39-a7ba-ed57bf7158a5.png)
 
 
-### Learnings aadn future scope:  
+### Learnings and future scope:  
 From the four models thet we developed ie., logistic regression, decision tree, neural network and random forest, neural network has outperformed with an accuracy greater than 92% on this huge and imbalanced dataset. The future scope of this is we can built an application where we can guild users to go through areas which are less prone to accidents or we can notify the users which are highly accident prone.
