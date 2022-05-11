@@ -47,7 +47,89 @@ The dataset includes 47 columns with severity as the output variable. This inclu
 
 ![image](https://user-images.githubusercontent.com/55958864/167739434-d2ac7b8a-c84c-40f5-985f-fcc2ceb5ef98.png)
 
+### Model Outputs:
+
+## Logistic Regression:
+
+Results of Logistic Regression
+
+Accuracy    :  0.8946384706560979
+
+Recall      :  0.8946384706560979
+
+Precision   :  0.8539889299254698
+
+Confusion Matrix   : 
+
+[[   325   6071      0      3]
+
+ [   267 589469   5089    889]
+ 
+ [    57  30526   3013    309]
+ 
+ [    39  25701   1006   1207]]
+ 
+ 
+## Decision Tree:
+
+Results of Decision Tree
+
+Accuracy    :  0.9040967150673749
+
+Recall      :  0.9040967150673749
+
+Precision   :  0.9061424711701926
+
+Confusion Matrix   : 
+
+[[  4309   1440    484    166]
+
+ [  1456 566478  14603  13177]
+ 
+ [   455  13523  16628   3299]
+ 
+ [   170  11576   3328  12879]]
 
 
+## Neural Network
+
+Results of Neural Network
+
+Accuracy    :  0.9203564613514746
+
+Recall      :  0.9203564613514746
+
+Precision   :  0.9060166938882748
+
+Confusion Matrix   : 
+
+[[  3384   2676    281     58]
+
+ [   663 588052   3414   3585]
+ 
+ [   349  20712  10608   2236]
+ 
+ [   219  17026   1662   9046]]
+ 
+ 
+## Random Forest 
+
+Results of Random Forest
+
+Accuracy    :  0.9039777339672967
+
+Recall      :  0.9039777339672967
+
+Precision   :  0.901722354710279
+
+Confusion Matrix   : 
+
+[[  5275   1066     57      1]
+
+ [  4118 583827   7651    118]
+ 
+ [   524  24230   9111     40]
+ 
+ [   142  13008  12801   2002]]
 
 
