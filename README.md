@@ -78,6 +78,7 @@ The dataset includes 47 columns with severity as the output variable. This inclu
 
 ## Results of Decision Tree
 
+
 ### Accuracy    :  0.9040967150673749
 
 ### Recall      :  0.9040967150673749
@@ -93,6 +94,8 @@ The dataset includes 47 columns with severity as the output variable. This inclu
  [   455  13523  16628   3299]
  
  [   170  11576   3328  12879]]
+ 
+![image](https://user-images.githubusercontent.com/55958864/167756485-b1e527b2-f5d0-44ec-b8b8-516901285c2b.png)
 
 
 ## Results of Neural Network
